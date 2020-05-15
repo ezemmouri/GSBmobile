@@ -1,0 +1,14 @@
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\bin\Debug\netstandard2.0\GSBmobile.deps.json
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\bin\Debug\netstandard2.0\GSBmobile.dll
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\bin\Debug\netstandard2.0\GSBmobile.pdb
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.csprojAssemblyReference.cache
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.csproj.CoreCompileInputs.cache
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.AssemblyInfoInputs.cache
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.AssemblyInfo.cs
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.dll
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\GSBmobile.pdb
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\PageAdministrer.xaml.g.cs
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\PagePrescription.xaml.g.cs
+D:\GSBmobile\GSBmobile\GSBmobile\GSBmobile\obj\Debug\netstandard2.0\XamlC.stamp
